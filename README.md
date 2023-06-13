@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+>Lending Club Case Study
 
 
 ## Table of Contents
@@ -11,8 +11,12 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
+- This is a case study to develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+- The aim of this project is to identify driving factors (or driver variables) behind loan default for a consumer finance company which specializes in lending various types of loans to urban customers. The company can utilise this knowledge for its portfolio and risk assessment. 
+- using 
+historical sample dataset & data dictionary which will indicate if a consumer is likely to 
+default. 
+
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
