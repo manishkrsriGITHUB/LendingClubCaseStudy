@@ -28,7 +28,7 @@
     term, home_ownersh
 
 ## Contact
-Created by [@manishkrsriGITHUB] - feel free to contact me!
+Created by @manishkrsriGITHUB - feel free to contact me!
 
 
 <!-- Optional -->
